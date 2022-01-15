@@ -2,10 +2,10 @@
 ## Aim of the Experiment
 #### Write a C++ program to declare a class. Declare pointer to class. Initialize and display the contents of the class member
 ### Step by Step Procedure of the Experiment
-Step 1 - Include the required header files (iostream.h, conio.h, and windows.h for colors).
-Step 2 - Create a class (Rectangle) with the following members as public members.
-length and breadth as data members.
-initialize(), getArea() and display() as member functions.
+Step 1 - Include the required header files (iostream.h, conio.h).
+Step 2 - Create a class (employe) with the following members as public members.
+id and name as data members.
+read() and display() as member functions.
 Step 3 - Create a main() method.
 Step 4 - Create a variable (rect) and a pointer variable (class_ptr) of the above class inside the main() method.
 Step 5 - Assign the address of class object (rect) to class pointer object (class_ptr).
