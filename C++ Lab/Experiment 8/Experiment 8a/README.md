@@ -1,6 +1,6 @@
 # Experiment 8 
 ## Aim of Experiment
-#### Write a C++ program on Friend Class &Friend Function
+#### Write a C++ program on Friend Function
 ### Step by Step procedure for the experiment
 Step 1 - Include the required header files (iostream and string.h)
 
