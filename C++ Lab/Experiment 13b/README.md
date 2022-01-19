@@ -1,7 +1,7 @@
 # Experiment 13b
 ## Aim of the Experiment:
 #### Write a C++ Program for divide by zero using multiple catch
-### Step-by-step process of Experiment:*
+### Step-by-step process of Experiment:
 1.Start the program.
 2.Declare and define the function catch().
 3.Within the try block check whether the value is equal to zero or not.
