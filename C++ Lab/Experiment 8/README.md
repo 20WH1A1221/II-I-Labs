@@ -1,6 +1,6 @@
-# Experiment 8 
+# Experiment 8a 
 ## Aim of Experiment
-#### Write a C++ program on Friend Class &Friend Function
+#### Write a C++ program on Friend Function
 ### Step by Step procedure for the experiment
 Step 1 - Include the required header files (iostream and string.h)
 
@@ -27,3 +27,5 @@ Step 9 - Create the objects(a,b) of the above class A  and class B respectively 
 Step 10 - Make function calls setdata() using class object.
 
 Step 11 - Finally call friend function (max) with object names as parameters.
+
+Step 7 - returnn 0 to exit form the program execution.
