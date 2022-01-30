@@ -1,4 +1,4 @@
-##### Experiment 12d
+# Experiment 12d
 ## Aim of the experiment
 #### Write a C++ Program on abstract class
 ### Step by Step procedure for the experiment:
